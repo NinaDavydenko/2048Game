@@ -1,0 +1,58 @@
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game_MarkupCompile.cache
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game_MarkupCompile.lref
+C:\Users\Home\source\repos\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.exe
+C:\Users\Home\source\repos\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.deps.json
+C:\Users\Home\source\repos\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.runtimeconfig.json
+C:\Users\Home\source\repos\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.runtimeconfig.dev.json
+C:\Users\Home\source\repos\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.dll
+C:\Users\Home\source\repos\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.pdb
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.g.resources
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.AssemblyInfo.cs
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.dll
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.pdb
+C:\Users\Home\source\repos\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.genruntimeconfig.cache
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.exe
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.deps.json
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.runtimeconfig.json
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.runtimeconfig.dev.json
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.dll
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.pdb
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.csprojAssemblyReference.cache
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game_MarkupCompile.cache
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game_MarkupCompile.lref
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.g.resources
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.AssemblyInfoInputs.cache
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.AssemblyInfo.cs
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.csproj.CoreCompileInputs.cache
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.dll
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.pdb
+D:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.genruntimeconfig.cache
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.exe
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.deps.json
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.runtimeconfig.json
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.runtimeconfig.dev.json
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.dll
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\bin\Debug\netcoreapp3.1\New2048Game.pdb
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.csproj.AssemblyReference.cache
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game_MarkupCompile.cache
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game_MarkupCompile.lref
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.g.resources
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.AssemblyInfoInputs.cache
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.AssemblyInfo.cs
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.csproj.CoreCompileInputs.cache
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.dll
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.pdb
+G:\Ніна\Академія\Windows Forms i WPF\New2048Game\New2048Game\obj\Debug\netcoreapp3.1\New2048Game.genruntimeconfig.cache
